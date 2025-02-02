@@ -25,6 +25,7 @@ K5Web 用于对兼容业余无线电台 UV-K5 写频、更新固件、写入星�
 - 开机图片（LOSEHU 固件）
 - 字库写入（LOSEHU 固件）
 - 星历写入（LOSEHU 固件）
+- TLE星历写入（LOSEHU 多普勒固件）
 - DTMF ID 设置
 - 收音机频道管理
 - MDC 联系人管理（LOSEHU 固件）
